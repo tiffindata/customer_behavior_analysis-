@@ -35,7 +35,7 @@ An end-to-end data analytics project exploring consumer purchasing patterns, dem
 
 ## Project Workflow
 
-1. **Data Ingestion & Preprocessing (Python):** Cleaned data in `Customer_shopping_behavior.ipynb`, checked for missing values, handled categorical data encoding, and identified statistical distributions.
+1. **Data Ingestion & Preprocessing (Python):** Cleaned data in `Customer_data.ipynb`, checked for missing values, handled categorical data encoding, and identified statistical distributions.
 
 
 2. **Exploratory Data Analysis (EDA):** Evaluated purchasing frequency, average spend by demographic group, and the relationship between discounts and customer satisfaction.
