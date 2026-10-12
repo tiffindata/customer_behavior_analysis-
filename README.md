@@ -55,8 +55,6 @@ An end-to-end data analytics project exploring consumer purchasing patterns, dem
 
 ## Dashboard Preview
 
-*(Add screenshots or GIFs of your Power BI report here)*
-
 * **Core Features:** Dynamic slicers for demographics and subscription status, KPI summary cards (Total Revenue, Average Review Rating, Repeat Purchase Rate), and categorical breakdown charts.
 
 
